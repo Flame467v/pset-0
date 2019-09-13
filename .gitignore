@@ -1,5 +1,1 @@
-.classpath
-.project
-.settings/
-bin/
-src/ProblemSet0_Solution.java
+*.class
